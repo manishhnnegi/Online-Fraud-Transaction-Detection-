@@ -1,0 +1,4 @@
+2022-07-21/22:40:21		[Errno 2] No such file or directory: 'Training_Logs/valuesfromSchemaValidationLog.txt'
+2022-07-21/22:41:40		[Errno 2] No such file or directory: 'Training_Logs/valuesfromSchemaValidationLog.txt'
+2022-07-21/22:43:12		[Errno 2] No such file or directory: 'Training_Logs/valuesfromSchemaValidationLog.txt'
+2022-07-21/22:44:26		[Errno 2] No such file or directory: 'Training_Logs/valuesfromSchemaValidationLog.txt'
